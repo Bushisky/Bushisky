@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React, Flutter and FHIR 
 - 💞️ I’m looking to collaborate on any systems health related
 - 📫 How to reach me ... LinkedIn George Bush Odhiambo 
-- 
+
 
 <!---
 Bushisky/Bushisky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
