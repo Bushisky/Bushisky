@@ -1,5 +1,4 @@
-# Create the content for the README file
-readme_content = """
+
 # 👋 Hi, I’m George Bush Odhiambo
 
 🌍 **Location:** Nairobi, Kenya  
@@ -22,11 +21,4 @@ readme_content = """
 - Java | Python | React | Groovy | EMR | FHIR | OpenMRS
 
 Feel free to connect or collaborate!
-"""
 
-# Write the content to a README.md file
-readme_filename = "/mnt/data/README.md"
-with open(readme_filename, "w") as file:
-    file.write(readme_content)
-
-readme_filename
