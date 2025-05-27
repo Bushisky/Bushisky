@@ -2,8 +2,7 @@
 # 👋 Hi, I’m George Bush Odhiambo
 
 🌍 **Location:** Nairobi, Kenya  
-💻 **Passionate about:** Health Informatics, OpenMRS, and EMR integrations  
-📚 **Currently learning:** React, Flutter, FHIR  
+💻 **Passionate about:** Health Informatics, OpenMRS, and EMR integrations   
 🤝 **Looking to collaborate on:** Health-related systems, especially around EMR solutions and patient management systems  
 🔗 **Reach me:** [LinkedIn](https://www.linkedin.com/in/george-bush-odhiambo/)
 
