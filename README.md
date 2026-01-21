@@ -13,9 +13,6 @@
 - **Patient Queue App:** Streamlining patient management with a focus on ease of use for healthcare workers, built using Groovy.
 - **Mama’s Hub Mobile and Web Interface Forms Development:** A current initiative involving mobile and web interface design for maternal health tracking.
 
-## 📈 GitHub Stats
-![Bushisky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bushisky&show_icons=true&theme=radical)
-
 ## 🚀 Skills
 - Java | Python | React | Groovy | EMR | FHIR | OpenMRS
 
